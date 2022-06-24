@@ -1,2 +1,2 @@
-# javascript-introduction
-# my page link  https://hashimhadizah.github.io/javascript-introduction/
+# js--my-info
+# https://keppyduckham.github.io/my-info/
