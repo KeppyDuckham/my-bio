@@ -1,3 +1,10 @@
+const myInfo = {
+    firstName: 'Ekpenyong',
+    lastName: 'Duckham',
+    myHeight: '5.8ft',
+    myCountry: 'Nigeria',
+};
+
 document.write(
-    "My name is Ekpenyong Duckham and I am 5.8 ft tall. I am from Nigeria."
+    `My name is ${myInfo.firstName} ${myInfo.lastName} . I am ${myInfo.myHeight} tall and I am from ${myInfo.myCountry}.`
 );
