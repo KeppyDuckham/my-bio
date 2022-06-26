@@ -1,4 +1,4 @@
-const myInfo = {
+let myInfo = {
     firstName: 'Ekpenyong',
     lastName: 'Duckham',
     myHeight: '5.8ft',
